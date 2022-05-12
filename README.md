@@ -7,7 +7,6 @@ API criada para auxiliar os jogadores de Magic The Gathering a negociarem suas l
 
 [Imgur](https://imgur.com/j6LzpWZ)
 
-
 ## Features
 A API  possui os seguintes endpoints:
 
