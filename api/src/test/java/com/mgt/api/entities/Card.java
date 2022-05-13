@@ -146,9 +146,6 @@ public class Card implements Serializable {
     return decks;
   }
 
-  public void setDecks(Set<Deck> decks) {
-    this.decks = decks;
-  }
 
   @Override
   public int hashCode() {

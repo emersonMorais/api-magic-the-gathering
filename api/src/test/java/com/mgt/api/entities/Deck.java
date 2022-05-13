@@ -70,10 +70,6 @@ public class Deck implements Serializable {
     return cards;
   }
 
-  public void setCards(Set<Card> cards) {
-    this.cards = cards;
-  }
-
   @Override
   public int hashCode() {
     final int prime = 31;
