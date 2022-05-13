@@ -11,9 +11,6 @@ add project entities# api-mgt-spring
   </a>
 </p>
 
-<<<<<<< HEAD
-## Features
-=======
 ## Funcionamento da API
 
 A API  possui os seguintes endpoints:
