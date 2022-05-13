@@ -2,7 +2,8 @@
 [![Build Status](https://travis-ci.org/mariazevedo88/travels-java-api.svg?branch=master)](https://travis-ci.org/mariazevedo88/travels-java-api) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mariazevedo88/travels-java-api) ![GitHub repo size](https://img.shields.io/github/repo-size/mariazevedo88/travels-java-api)  ![GitHub](https://img.shields.io/github/license/mariazevedo88/travels-java-api)
 
 <h2>Sobre o projeto<h2/>
-<p align> API criada para auxiliar os jogadores de Magic The Gathering a negociarem suas listas de cartas do jogo. Foi construída com Java e Spring, a persistência dos dados foi feita no Banco Postgres SQL, e Banco H2 para testes locais.</P>
+  
+<p> API criada para auxiliar os jogadores de Magic The Gathering a negociarem suas listas de cartas do jogo. Foi construída com Java e Spring, a persistência dos dados foi feita no Banco Postgres SQL, e Banco H2 para testes locais.</p>
 
 
 <p align="center">
