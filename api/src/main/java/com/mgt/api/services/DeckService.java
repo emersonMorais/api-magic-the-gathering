@@ -11,7 +11,7 @@ import com.mgt.api.dto.DeckDTO;
 import com.mgt.api.entities.Deck;
 import com.mgt.api.entities.Player;
 import com.mgt.api.repositories.DeckRepository;
-import com.teste.api.mgt.services.exceptions.ResourceNotFoundException;
+import com.mgt.api.services.exceptions.ResourceNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -8,8 +8,8 @@ import javax.transaction.Transactional;
 import com.mgt.api.dto.CardDTO;
 import com.mgt.api.entities.Card;
 import com.mgt.api.repositories.CardRepository;
-import com.teste.api.mgt.services.exceptions.DatabaseException;
-import com.teste.api.mgt.services.exceptions.ResourceNotFoundException;
+import com.mgt.api.services.exceptions.DatabaseException;
+import com.mgt.api.services.exceptions.ResourceNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;

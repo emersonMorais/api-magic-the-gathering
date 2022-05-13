@@ -9,7 +9,7 @@ import javax.transaction.Transactional;
 import com.mgt.api.dto.PlayerDTO;
 import com.mgt.api.entities.Player;
 import com.mgt.api.repositories.PlayerRepository;
-import com.teste.api.mgt.services.exceptions.ResourceNotFoundException;
+import com.mgt.api.services.exceptions.ResourceNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
